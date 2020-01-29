@@ -39,6 +39,3 @@
 보면 알 수 있듯이 기본은 main.py가 있는 디렉토리로 설정되어 있다.
 
 이처럼 설정을 완료한 후, main.py와 setting.txt를 같은 디렉토리에 두고 실행하면 된다.
-<div class="text-red mb-2">
-  .text-red on white
-</div>
